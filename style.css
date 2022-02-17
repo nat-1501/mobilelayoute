@@ -1,0 +1,50 @@
+#hora {
+position: relative;
+margin-top: 12px;
+margin-left: 20px;
+
+font-family: 'Source Code Pro', monospace;
+font-size: 20px;
+line-height: 18px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: -0.02em;
+color:black;
+ 
+}
+
+.conection1 {
+    position: relative;
+    height: 4px;
+    background: black;
+    width: 3px;
+    left: 78.31%;
+}
+.conection2 {
+    position: relative;
+    height: 6px;
+    left: 79.60%;
+    width: 3px;
+    background: black;
+    margin-top: -6px;
+}
+
+.conection3 {
+    position: relative;
+    height: 10px;
+    margin-left: 304px;
+    width: 3px;
+    background-color: black;
+    margin-top: -10px;
+}
+
+.conection4 {
+    position: relative;
+    height: 13px;
+    margin-left: 309px;
+    width: 3px;
+    background-color: black;
+    margin-top: -13px;
+
+}
