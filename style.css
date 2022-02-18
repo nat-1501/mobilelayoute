@@ -1,6 +1,6 @@
 #hora {
 position: relative;
-margin-top: 12px;
+margin-top: 20px;
 margin-left: 20px;
 
 font-family: 'Source Code Pro', monospace;
@@ -111,4 +111,37 @@ color:black;
     margin-left: 366px;
     border-radius: 30%;
     opacity: 35%;
+}
+
+.circulo1 {
+    width: 125px;
+    height: 125px;
+    margin-top: 200px;
+    margin-left: 81px;
+    border-radius: 50%;
+    background:#F0FCE8;
+}
+
+.circulo2 {
+    width: 679px;
+    height: 679px;
+    margin-top: 150px;
+    margin-left: -420px;
+    border-radius: 50%;
+    background:#F0FCE8;
+}
+
+
+
+.titulo {
+    position: absolute;
+    width: 92px;
+    height: 42px;
+    margin-bottom: -200px;
+    font-size: 36px;
+    align-items: center;
+    margin-left: 150px;
+
+
+color: #545454;
 }
