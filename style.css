@@ -128,7 +128,7 @@ color:black;
     width: 679px;
     height: 679px;
     margin-top: -50px;
-    margin-left: -480px;
+    margin-left: -450px;
     border-radius: 50%;
     background:#F0FCE8;
     position: absolute;
@@ -173,13 +173,34 @@ color:black;
 
 .barprogress {
     background: #979797;
-border: 2px solid #979797;
-box-sizing: border-box;
-border-radius: 10px;
-position: relative;
-width: 34.22px;
-height: 14px;
-left: 147px;
-top: 644px;
+    border: 2px solid #979797;
+    box-sizing: border-box;
+    border-radius: 10px;
+    position: relative;
+    width: 34.22px;
+    height: 14px;
+    left: 147px;
+    top: 244px;
 }
 
+.bolinha1 {
+    position: relative;
+    width: 14px;
+    height: 14px;
+    left: 188px;
+    top: 230px;
+    border: 2px solid #979797;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.bolinha2 {
+    position: relative;
+    width: 14px;
+    height: 14px;
+    left: 208px;
+    top: 216px;
+    border: 2px solid #979797;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
