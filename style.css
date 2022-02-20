@@ -204,3 +204,44 @@ color:black;
     box-sizing: border-box;
     border-radius: 10px;
 }
+
+.callaction {
+    position: relative;
+    width: 208px;
+    height: 40px;
+    left: 80px;
+    top: 304px;
+    background: rgba(116, 170, 128, 0.92);
+    border: 2px solid rgba(116, 170, 128, 0.92);
+    box-sizing: border-box;
+    border-radius: 5px;
+    display: flex;
+}
+
+.callaction span {
+
+position: absolute;
+width: 177px;
+height: 16px;
+left: 45px;
+top: 10px;
+
+font-family: 'Roboto' sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 0.2em;
+color: #F0FCE8;
+
+}
+
+.barrinha {
+    position: relative;
+    width: 134px;
+    height: 5px;
+    left: 115px;
+    top: 416px;
+    background: #000000;
+   
+    border-radius: 100px;
+}
